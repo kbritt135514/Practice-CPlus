@@ -1,3 +1,6 @@
+// \n and endl can be used in order to start another line when outputting info you want to be on seperate lines
+
+
 #include <iostream>
 
 using namespace std;
