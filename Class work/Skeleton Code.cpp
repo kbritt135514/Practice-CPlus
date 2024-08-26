@@ -1,0 +1,22 @@
+/*  Author: Keanu Britt
+    Date: 8/26/24
+    Purpose: Calculate the perimeter ofa rectangle*/
+
+
+//preprocessor directives
+#include <iostream> 
+#include <string>
+
+//namespace statement
+using namespace std;
+
+//main function
+int main() {
+
+    //Print "Press any key to continue..." and wait for input
+    system ("pause");
+
+
+    //end main function
+    return 0;
+}
