@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Git Repositories/Practice-CPlus",
-      "program": "d:/Git Repositories/Practice-CPlus/build/Debug/outDebug",
+      "cwd": "c:/Users/rickd/Documents/C++ Codes/Repository/Practice-CPlus/Personal Projects",
+      "program": "c:/Users/rickd/Documents/C++ Codes/Repository/Practice-CPlus/Personal Projects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

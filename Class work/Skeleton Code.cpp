@@ -1,6 +1,6 @@
 /*  Author: Keanu Britt
     Date: 8/26/24
-    Purpose: Calculate the perimeter ofa rectangle*/
+    Purpose: Calculate the semester cost of NSU*/
 
 
 //preprocessor directives

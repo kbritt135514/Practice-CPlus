@@ -29,7 +29,7 @@ int main() {
     char roomNeededChoice, roomChoice;
     int dormCost;
     string roomType;
-    bool roomTest = false;
+    bool roomTest = true;
 
     char mealChoice;
     int mealCost;
@@ -38,7 +38,7 @@ int main() {
 
     float semesterTotal;
 
-
+    //Do while for false inputs to reprompt for a correct choice
     do 
     {
         //Prompt user input for tuition choice
@@ -65,9 +65,6 @@ int main() {
                 break; 
         }
     } while (tuitionTest == false);
-
-
-    //More variable declaration
 
     
 
@@ -150,16 +147,13 @@ int main() {
         }
         else if (roomChoice == 'n' || roomChoice ==  'N') {
         cout << "No room/Dorm/Board needed, no cost added."<<endl;
+        roomTest = true;
+        break;
         }
     } while (roomTest == false);
 
 
     
-
-    //More Variable declaration
-
-
-
 
     //do while loop with a switch statement to process user input
     do

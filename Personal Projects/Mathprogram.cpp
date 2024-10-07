@@ -14,6 +14,7 @@ int main() {
     cout << "Please select a choice from the Menu by entering the corrosponding Letter: " << endl;
     cout << "A: Collatz Conjecture"<<endl;
     cout << "B: Pythagorean Theorem"<<endl;
+    cout << ":"<<endl;
 
     cin >> menuChoice;
     do 
@@ -24,7 +25,9 @@ int main() {
             case 'b': 
             case 'B': 
             case 'c':
-            case 'C': validChoice = true;
+            case 'C': 
+            case 'd':
+            case 'D': validChoice = true;
                 break;
             default: validChoice == false;
         }
@@ -109,6 +112,10 @@ int main() {
                     cout << fixed << setprecision(2) << "The hypotenuse is: " << C <<endl;
                     break;
             }
+            case 'c':
+            case 'C': 
+
+            break;
     }
     return 0;
 }
