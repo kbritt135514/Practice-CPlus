@@ -38,10 +38,10 @@ void sweetTotalCost(int sweetAmount, float sweetPotatoPies, float &sweetTotal);
 
 
 void subTotalFun(float appleTotal,float peachTotal,float sweetTotal,float &subTotal);
-void taxAndTotal(float subTotal,float shipCost,float &taxAmount,float &totalCost);
+void taxAndTotal(float subTotal,float SHIPPING_COST,float &taxAmount,float &totalCost);
 
 
-void displayCost(float subTotal,float taxAmount,float shipCost,float totalCost);
+void displayCost(float subTotal,float taxAmount,float SHIPPING_COST,float totalCost);
 
 
 
@@ -135,19 +135,19 @@ void subTotalFun(float appleTotal,float peachTotal,float sweetTotal,float &subTo
 
 
 // This function computes the total and taxes and passes the values by reference
-void taxAndTotal(float subTotal,float shipCost,float &taxAmount,float &totalCost) {
+void taxAndTotal(float subTotal,float SHIPPING_COST,float &taxAmount,float &totalCost) {
     const float TAX_RATE = 0.055;
     taxAmount = subTotal * TAX_RATE;
-    totalCost = subTotal + taxAmount + shipCost;
+    totalCost = subTotal + taxAmount + SHIPPING_COST;
 }
 
 //this function displays the values passed by reference. Subtotal, taxes, shipping, and Total purchase cost
-void displayCost(float subTotal,float taxAmount,float shipCost,float totalCost) {
+void displayCost(float subTotal,float taxAmount,float SHIPPING_COST,float totalCost) {
     cout << fixed << setprecision(2) << "Your subtotal for your purchase is: $" << subTotal << endl;
 
     cout << fixed << setprecision(2) <<"\nYour total taxes are: $"<< taxAmount << endl;
 
-    cout << fixed << setprecision(2) <<"\nYour shipping cost is: $" << shipCost << endl;
+    cout << fixed << setprecision(2) <<"\nYour shipping cost is: $" << SHIPPING_COST << endl;
 
     cout << fixed << setprecision(2) <<"\nThe total of your purchase is: $" << totalCost << endl;
 }
