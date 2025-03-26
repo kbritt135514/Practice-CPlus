@@ -1,0 +1,53 @@
+Student ID  Answers                                 Score   Grade
+--------------------------------------------------
+T           F T F T F T T T F T T F T T F T F ð ­ º 13     F
+TTFTFTTTFTFTTFTTFTTTA B C 4 2 3 6 6 T T F T F T T T F T F T 7      F
+TTTTFTTT    T F T F F F T F F T F º  ð ­ º  ð ­ º 10     F
+TTTF        T T F F F T F T F F T F T F ­ º  ð ­ º 7      F
+TTFTFFTTFTTFTFF F T F T ð ­ º  ð ­ º  ð ­ º  ð ­ º -5     F
+FTFFFTTTFFFTT T F F F F F º  ð ­ º  ð ­ º  ð ­ º 5      F
+FF          F F T T T T F F T T F F F F T T  ð ­ º 11     F
+F           T F T F T F F F F F T F F T ­ º  ð ­ º -2     F
+FTTFTFFTFTTFFTT T F T T ð ­ º  ð ­ º  ð ­ º  ð ­ º 7      F
+TFTFTT      T F F F T T F F F F ­ º  ð ­ º  ð ­ º 5      F
+FFFTFFFT    T T T T F F F º  ð ­ º  ð ­ º  ð ­ º 5      F
+FTTTFFFTTFTTFTTT T F º  ð ­ º  ð ­ º  ð ­ º  ð ­ º 6      F
+TTFTFFTTTT  F F T F T F F T F ð ­ º  ð ­ º  ð ­ º -6     F
+TTFFTF      T F F F T F F T T F T º  ð ­ º  ð ­ º -5     F
+FT          T T T F F F F F T T T F F T F T  ð ­ º 5      F
+T           F T F T T T F T F F F T T F T T F ð ­ º 16     F
+TFFFTF      T F F F T T F F F F ­ º  ð ­ º  ð ­ º 5      F
+TFFTFT      T T F T T T F T F ð ­ º  ð ­ º  ð ­ º 9      F
+T           F F F F F T F T F F T T T T T F  ð ­ º 2      F
+F           T T T T F T F F F F T F T F T º  ð ­ º 12     F
+TFF         T F T T T F F T T F T T F T T º  ð ­ º 0      F
+TTFTFFTF    F T F F T T F T T T ­ º  ð ­ º  ð ­ º 2      F
+FFFFTTTF    F T F T F F T T F ð ­ º  ð ­ º  ð ­ º 9      F
+TF          F F F F T T T T T T T T T F T F  ð ­ º 5      F
+TFFFFF      F F F T F F T T T F F F  ð ­ º  ð ­ º 3      F
+TTFF        F T T F F T T F F F T F F T ­ º  ð ­ º 7      F
+TF          T F T T F F F T T T F T F T F º  ð ­ º 6      F
+TT          T T T F F F F F F F F T T F ­ º  ð ­ º 10     F
+F           F F F T T T F F T F T F T F ­ º  ð ­ º 1      F
+FTFFTTTF    T F T F F T F F F ð ­ º  ð ­ º  ð ­ º 6      F
+TFTFTFTFTFTTF F F T T T T º  ð ­ º  ð ­ º  ð ­ º 5      F
+T           F T T T T F F T T F T F F T ­ º  ð ­ º -5     F
+FF          F F T F F F F F F F T F  ð ­ º  ð ­ º -3     F
+TTFTFTTFFTFTFFTTFTTTW E X 3 7 9 4 8 T T T F F T T F F T T F -2     F
+FF          F T F F F F F T T F F T T ð ­ º  ð ­ º 2      F
+TF          T F T F T F F F F F T F F F ­ º  ð ­ º 1      F
+FF          T F F F F F F T T F F T F T T T  ð ­ º 8      F
+TTTTTTFFTFTFFFTFFFFFX Z U 1 1 1 7 0 F F T T F F F T T T T F 1      F
+TFTT        F T F F F F F T T T F T T ð ­ º  ð ­ º 5      F
+TT          F T F T T T T F T T T T T T ­ º  ð ­ º 10     F
+FTF         F F F F F F F T F F F F  ð ­ º  ð ­ º 0      F
+FTT         T F T T T F T F T F T º  ð ­ º  ð ­ º 1      F
+FF          F F T F F F F F T T F T T F F º  ð ­ º 3      F
+FFFTTTTTFF  T T T T F T T º  ð ­ º  ð ­ º  ð ­ º 11     F
+TTFTF       T F F T F T F F T F T T T ð ­ º  ð ­ º 8      F
+TF          T T F T T F T T F T T F T T T º  ð ­ º 9      F
+T           T T T T T F T T F T T T T ð ­ º  ð ­ º 8      F
+TFTT        F T T T T T T F F F F F T T ­ º  ð ­ º 7      F
+TFFTFTFFFFTTT T T F T ð ­ º  ð ­ º  ð ­ º  ð ­ º 1      F
+FF          T T F F F F T F F T F F T F T T T ð ­ º 19     F
+T           T F F F F T F T F F T T F T T T  ð ­ º 11     F

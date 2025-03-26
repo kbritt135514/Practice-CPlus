@@ -11,22 +11,29 @@
 #include <fstream>
 using namespace std;
 const int SIZE = 5;
+
 struct  recording  { 
    string title;
 	string artist;
 	double cost;
 	int quantity; 
 }; 
+
 // function prototypes
 void loadData(recording[], int);
 void printRecording(recording[], int);
 void writeData(recording[], int);
 
 int main() {
+
    recording recordingCollection[SIZE];
+
    loadData(recordingCollection, SIZE);
+
    printRecording(recordingCollection, SIZE);
+
    writeData(myRecoding, SIZE);
+   
 	return 0;
 }
 
